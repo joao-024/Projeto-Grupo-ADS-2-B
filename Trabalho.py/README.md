@@ -79,11 +79,11 @@ O projeto utiliza Programação Orientada a Objetos, concentrando a lógica de l
 O arquivo main.py é responsável pelo menu interativo e pela chamada dos métodos de análise.
 
 Integrantes do grupo
-João Gabriel Ribeiro
-Airton 
-Rodrigo
-Ronald
-Ricardo
+João Gabriel Ribeiro/
+Airton/
+Rodrigo/
+Ronald/
+Ricardo/
 Matheus
 Disciplina ADS 2B
 
