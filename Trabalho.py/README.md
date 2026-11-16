@@ -1,14 +1,6 @@
 Projeto de Análise de Dados – Titanic
 Sobre o projeto
 
-Integrantes
-João Gabriel
-Airton Dias
-Ronald
-Ricardo
-Rodrigo
-Matheus
-
 Este projeto foi desenvolvido como atividade final da disciplina de Python, com o objetivo de aplicar conceitos de Engenharia de Dados e Programação Orientada a Objetos.
 
 O sistema realiza a leitura, limpeza, processamento e análise de dados de passageiros do Titanic, utilizando Python e bibliotecas de análise de dados.
